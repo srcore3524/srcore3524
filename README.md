@@ -61,3 +61,12 @@
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20my%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
+
+<div align="center">
+  ----
+  |  Language Overview | In detail |
+  |--------------------|-----------|
+  | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=srcore3524&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=4) | ![Contributions](https://streak-stats.demolab.com?user=edwinrivera1995&theme=tokyonight)  |
+  ---
+</div>
+<img src="https://github-profile-trophy.vercel.app/?username=srcore3524" alt="srcore3524" />
