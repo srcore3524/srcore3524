@@ -62,5 +62,3 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20my%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=srcore3524" alt="srcore3524" />
