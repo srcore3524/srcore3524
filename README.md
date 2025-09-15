@@ -22,6 +22,8 @@
   <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
   <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
   <li>😄 <strong>Pronouns</strong>: he/him</li>
+  <li>📧 <strong>Email</strong>: srcore3524@gmail.com</li>
+  <li>📱 <strong>telegram</strong>: @srcore3524</li>
 </ul>
 
 </div>
