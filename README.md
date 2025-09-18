@@ -1,66 +1,199 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
+<h2 align="center">🛠️ Development Arsenal</h2>
 
-
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
-
-<h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
+<div align="center">
+  <h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> 
+  Full Stack & E-commerce Developer 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
 </h1>
-​
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Senior+Full-Stack+Developer;10%2B+Years+Experience;MERN+%7C+Django+%7C+Laravel+Expert;Blockchain+%26+DeFi+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
 <div>
-  <p>
-     I am a senior full-stack developer with over 10 years of experience in software development across various industries, with the five most recent years focused on MERN/Django/Laravel/Wordpress/shopify.
-     I am well-respected among my clients as a skilled developer who truly understands the client infrastructure and pain points. What sets my apart is my ability to ramp up new technologies and her problem-solving skills quickly.  
-     I thrive on new challenges and enjoys pushing herself to learn and grow.
-  </p>
+  <img align="right" alt="Coding" height="300" src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
   
-  <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
-
-  <ul>
-  <li>💼 <strong>Current Role</strong>: Fullstack & E-commerce Developer with a proven track record of delivering high-quality solutions.</li>
-  <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
-  <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
-  <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
-  <li>😄 <strong>Pronouns</strong>: he/him</li>
-  <li>📧 <strong>Email</strong>: <a href="mailto:srcore3524@gmail.com">srcore3524@gmail.com</a></li>
-  <li>📱 <strong>telegram</strong>: <a href="https://t.me/srcore3524">@srcore3524</a></li>
-</ul>
-
+  ### 👨‍💻 About Me
+   Senior Full-stack developer with over 10 years of experience in software development across various industries. Specialized in modern web technologies with a focus on MERN stack, Django, Laravel, WordPress, and Shopify development.
+   I'm passionate about building scalable solutions and leading development teams to deliver high-quality software that solves real business problems.
+  
+  ### 🚀 Current Focus
+  
+  - 💼 **Current Role**: Fullstack & E-commerce Developer with a proven track record
+  - 👨‍💼 **Team Leadership**: Leading talented teams, fostering collaboration and innovation
+  - 🌱 **Currently Learning**: Advanced smart contract development and DeFi
+  - 💬 **Expertise**: Full-stack Development, Blockchain, Project Management
+  - 😄 **Pronouns**: he/him
+  - 📧 **Email**: [srcore3524@gmail.com](mailto:srcore3524@gmail.com)
+  - 📱 **Telegram**: [@srcore3524](https://t.me/srcore3524)
 </div>
 
-<h1>
-  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width ="30"> Skills
-</h1>
-<div align=''>
-<table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Frameworks and Libraries</th>
-      <th>Databases</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <p align="center">
-            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img height='132' alt='database' src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=2" />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br clear="both"/>
+
+---
+
+<h2 align="center">
+  <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width="30"> 
+  Technical Skills & Expertise
+</h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🔧 Languages</th>
+        <th>⚡ Frontend & Libraries</th>
+        <th>🛠️ Backend & Frameworks</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
+        </td>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,redux,html,css,sass,tailwind,bootstrap&perline=5" />
+        </td>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,graphql,fastapi,spring,flask,nodejs,nginx&perline=5" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20my%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
+<br/>
 
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>🗄️ Databases</th>
+        <th>☁️ Cloud & DevOps</th>
+        <th>🛒 E-commerce Platforms</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase&perline=3" />
+        </td>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,netlify,heroku,digitalocean&perline=5" />
+        </td>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=wordpress,shopify&perline=2" />
+          <br/>
+          <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white"/>
+          <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>📱 Mobile & Tools</th>
+        <th>💳 Payment Gateways</th>
+        <th>📊 Analytics & Marketing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img height="120" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,webpack,vite,npm,yarn&perline=5" />
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Klarna-FFB3C7?style=for-the-badge&logo=klarna&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Authorize.net-1F4F96?style=for-the-badge&logoColor=white"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google%20ads&logoColor=white"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🛠️ Development Arsenal</h2>
+
+<div align="center">
+  
+  <h2 align="center">🛠️ Development Arsenal</h2>
+
+<div align="center">
+  
+ **Frontend** ✨  
+  `React` `Vue.js` `Next.js` `Nuxt.js` `TypeScript` `Redux` `HTML5` `CSS3` `Tailwind CSS`
+  
+  **Backend** 🚀  
+  `Node.js` `Express` `Django` `Laravel` `NestJS` `GraphQL` `REST APIs` `Microservices`
+  
+  **🛒 CMS & E-commerce Mastery** 🏆  
+  `Shopify Plus` `WooCommerce` `Magento 2` `BigCommerce` `Wix` `Drupal` `Custom Solutions`  
+  `Shopify Apps Development` `Theme Customization` `Headless Commerce` `Multi-vendor Marketplaces`
+  
+  **💳 Payment Integration Expert** 💰  
+  `Stripe` `PayPal` `Square` `Authorize.net` `Razorpay` `Klarna` `Apple Pay` `Google Pay`  
+  `Subscription Billing` `Multi-currency` `Fraud Prevention` `PCI Compliance`
+  
+  **🔄 E-commerce Integrations** 🔌  
+  `ERP Systems` `CRM Integration` `Inventory Management` `Shipping APIs`
+  `Product Information Management` `Order Management Systems` `Customer Support Tools`
+  
+  **Blockchain & Web3** ⛓️  
+  `Solidity` `Smart Contracts` `DeFi` `NFT Marketplaces` `Web3.js` `Ethereum` `Crypto Payments`
+  
+</div>
+  
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect & Build Something Amazing!</h2>
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcore3524@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/srcore3524)
+  
+  **💡 Open to new opportunities and collaborations**
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontAlignY=70&desc=Let's%20build%20the%20future%20together&descAlignY=85&animation=twinkling" />
+</div>
