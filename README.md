@@ -22,14 +22,9 @@
   - 👨‍💼 **Team Leadership**: Leading talented teams, fostering collaboration and innovation
   - 🌱 **Currently Learning**: Advanced smart contract development and DeFi
   - 💬 **Expertise**: Full-stack Development, Blockchain, Project Management
-  - 😄 **Pronouns**: he/him
-  - 📧 **Email**: [srcore3524@gmail.com](mailto:srcore3524@gmail.com)
-  - 📱 **Telegram**: [@srcore3524](https://t.me/srcore3524)
 </div>
 
 <br clear="both"/>
-
----
 
 <h2 align="center">
   <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width="30"> 
@@ -95,51 +90,8 @@
 
 <br/>
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>📱 Mobile & Tools</th>
-        <th>💳 Payment Gateways</th>
-        <th>📊 Analytics & Marketing</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img height="120" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,webpack,vite,npm,yarn&perline=5" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Klarna-FFB3C7?style=for-the-badge&logo=klarna&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Authorize.net-1F4F96?style=for-the-badge&logoColor=white"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google%20ads&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
----
-
-<h2 align="center">🛠️ Development Arsenal</h2>
-
-<div align="center">
-  
-  <h2 align="center">🛠️ Development Arsenal</h2>
-
-<div align="center">
+<div>
   
  **Frontend** ✨  
   `React` `Vue.js` `Next.js` `Nuxt.js` `TypeScript` `Redux` `HTML5` `CSS3` `Tailwind CSS`
@@ -164,18 +116,6 @@
   
 </div>
   
-</div>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 <h2 align="center">🤝 Let's Connect & Build Something Amazing!</h2>
 
