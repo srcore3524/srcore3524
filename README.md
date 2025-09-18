@@ -1,6 +1,4 @@
-<h2 align="center">🛠️ Development Arsenal</h2>
-
-<div align="center">
+<div>
   <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> 
   Full Stack & E-commerce Developer 
@@ -10,8 +8,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Senior+Full-Stack+Developer;10%2B+Years+Experience;MERN+%7C+Django+%7C+Laravel+Expert;Blockchain+%26+DeFi+Enthusiast" alt="Typing SVG" />
 </div>
-
----
 
 <div>
   <img align="right" alt="Coding" height="300" src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
@@ -85,8 +81,8 @@
           <img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,netlify,heroku,digitalocean&perline=5" />
         </td>
         <td align="center">
-          <img height="120" src="https://skillicons.dev/icons?i=wordpress,shopify&perline=2" />
-          <br/>
+          <img height="120" src="https://skillicons.dev/icons?i=wordpress&perline=2" />
+          <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"/>
           <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
           <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
           <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white"/>
