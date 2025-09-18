@@ -15,13 +15,17 @@
   ### 👨‍💻 About Me
    Senior Full-stack developer with over 10 years of experience in software development across various industries. Specialized in modern web technologies with a focus on MERN stack, Django, Laravel, WordPress, and Shopify development.
    I'm passionate about building scalable solutions and leading development teams to deliver high-quality software that solves real business problems.
+ 
+  <h2 align="center">🤝 Let's Connect & Build Something Amazing!</h2>
+
+  <div align="center">
   
-  ### 🚀 Current Focus
+   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcore3524@gmail.com)
+   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/srcore3524)
   
-  - 💼 **Current Role**: Fullstack & E-commerce Developer with a proven track record
-  - 👨‍💼 **Team Leadership**: Leading talented teams, fostering collaboration and innovation
-  - 🌱 **Currently Learning**: Advanced smart contract development and DeFi
-  - 💬 **Expertise**: Full-stack Development, Blockchain, Project Management
+   **💡 Open to new opportunities and collaborations**
+  
+ </div>
 </div>
 
 <br clear="both"/>
@@ -91,46 +95,6 @@
 
 <br/>
 
-
-<div>
-  
- **Frontend** ✨  
-  `React` `Vue.js` `Next.js` `Nuxt.js` `TypeScript` `Redux` `HTML5` `CSS3` `Tailwind CSS`
-  
-  **Backend** 🚀  
-  `Node.js` `Express` `Django` `Laravel` `NestJS` `GraphQL` `REST APIs` `Microservices`
-  
-  **🛒 CMS & E-commerce Mastery** 🏆  
-  `Shopify Plus` `WooCommerce` `Magento 2` `BigCommerce` `Wix` `Drupal` `Custom Solutions`  
-  `Shopify Apps Development` `Theme Customization` `Headless Commerce` `Multi-vendor Marketplaces`
-  
-  **💳 Payment Integration Expert** 💰  
-  `Stripe` `PayPal` `Square` `Authorize.net` `Razorpay` `Klarna` `Apple Pay` `Google Pay`  
-  `Subscription Billing` `Multi-currency` `Fraud Prevention` `PCI Compliance`
-  
-  **🔄 E-commerce Integrations** 🔌  
-  `ERP Systems` `CRM Integration` `Inventory Management` `Shipping APIs`
-  `Product Information Management` `Order Management Systems` `Customer Support Tools`
-  
-  **Blockchain & Web3** ⛓️  
-  `Solidity` `Smart Contracts` `DeFi` `NFT Marketplaces` `Web3.js` `Ethereum` `Crypto Payments`
-  
-</div>
-  
-
-<h2 align="center">🤝 Let's Connect & Build Something Amazing!</h2>
-
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srcore3524@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/srcore3524)
-  
-  **💡 Open to new opportunities and collaborations**
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20%20🚀&fontSize=24&fontAlignY=70&desc=Let's%20build%20the%20future%20together&descAlignY=85&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20%20🚀" />
 </div>
