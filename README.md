@@ -76,11 +76,12 @@
           <img height="120" src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,vercel,netlify,heroku,digitalocean&perline=5" />
         </td>
         <td align="center">
-          <img height="120" src="https://skillicons.dev/icons?i=wordpress&perline=2" />
-          <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
           <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+          <img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white"/>
           <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white"/>
           <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white"/>
         </td>
       </tr>
@@ -131,5 +132,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontAlignY=70&desc=Let's%20build%20the%20future%20together&descAlignY=85&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20%20🚀&fontSize=24&fontAlignY=70&desc=Let's%20build%20the%20future%20together&descAlignY=85&animation=twinkling" />
 </div>
