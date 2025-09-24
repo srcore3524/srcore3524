@@ -13,7 +13,7 @@
   <img align="right" alt="Coding" height="300" src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
   
   ### 👨‍💻 About Me
-   Senior Full-stack developer with over 10 years of experience in software development across various industries. Specialized in modern web technologies with a focus on MERN stack, Django, Laravel, WordPress, and Shopify development.
+   Senior Full-stack developer with over 8 years of experience in software development across various industries. Specialized in modern web technologies with a focus on MERN stack, Django, Laravel, WordPress, and Shopify development.
    I'm passionate about building scalable solutions and leading development teams to deliver high-quality software that solves real business problems.
 </div>
 
