@@ -15,15 +15,6 @@
   ### 👨‍💻 About Me
    Senior Full-stack developer with over 10 years of experience in software development across various industries. Specialized in modern web technologies with a focus on MERN stack, Django, Laravel, WordPress, and Shopify development.
    I'm passionate about building scalable solutions and leading development teams to deliver high-quality software that solves real business problems.
- 
-  <h2 align="center">🤝 Let's Connect & Build Something Amazing!</h2>
-
-  <div align="center">
-
-
-   **💡 Open to new opportunities and collaborations**
-  
- </div>
 </div>
 
 <br clear="both"/>
