@@ -17,8 +17,6 @@
    I'm passionate about building scalable solutions and leading development teams to deliver high-quality software that solves real business problems.
 </div>
 
-<br clear="both"/>
-
 <h2 align="center">
   <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width="30"> 
   Technical Skills & Expertise
