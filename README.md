@@ -129,7 +129,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srcore3524&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srcore3524&theme=tokyonight&hide_border=true" height="165" />
-</div>
