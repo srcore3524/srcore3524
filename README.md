@@ -15,7 +15,7 @@
 
   Senior full-stack developer with 8+ years building web and mobile applications for businesses across Europe and the US. I own projects end-to-end — architecture, database design, frontend, deployment, client handoff — and I've done it fully remote for the past 6 years across multiple time zones.
 
-  Shipped 25+ production projects including SaaS dashboards, e-commerce platforms, and cross-platform mobile apps. Currently freelancing from Glasgow, UK with a 100% job success score and 4.9/5 client rating.
+  Shipped 35+ production projects including SaaS dashboards, e-commerce platforms, and cross-platform mobile apps.
 </div>
 
 <br clear="both"/>
